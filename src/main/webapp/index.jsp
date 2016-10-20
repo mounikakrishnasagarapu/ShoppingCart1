@@ -1,10 +1,13 @@
 <html>
-<body bgcolor="red">
-<title>Login Page</title>
-<h2>Hello World!</h2>
-UserName<input type="text" name="username"><br>
-Password<input type="password" name="password"><br>
-<input type="submit" value="login">
-
+<body>
+<h1>shopping cart</h1>
+<h2>Existing user<a href="login">login her</a></h2>
+<h2>New user:<a href="registeration">register here</a></h2>
+<hr>
 </body>
 </html>
+
+
+
+
+
